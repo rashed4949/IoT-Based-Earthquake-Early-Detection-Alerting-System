@@ -1,0 +1,4 @@
+Run docker compose file:-
+docker-compose up
+stop docker compose file:-
+docker-compose down 
